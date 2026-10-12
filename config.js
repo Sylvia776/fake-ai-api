@@ -14,23 +14,15 @@ module.exports = {
 
   // /v1/models 返回的模型列表。请求里填什么模型名都能过，这个列表只是展示用；
   models: [
-    "claude-sonnet-4-6",
-    "claude-sonnet-4-7",
-    "claude-sonnet-4-8",
-    "claude-sonnet-5",
     "claude-sonnet-5-5",
-    "claude-opus-4-6",
-    "claude-opus-4-7",
-    "claude-opus-4-8",
-    "claude-opus-5",
     "claude-opus-5-5",
-    "claude-fable-5",
     "claude-fable-5-1",
     "gpt-5.6-sol",
     "gpt-5.6-terra",
     "gpt-5.6-luna",
     "gpt-6-astra",
     "gpt-6-sol",
+    "gpt-6.1-sol",
     "gpt-6-luna",
   ],
 
